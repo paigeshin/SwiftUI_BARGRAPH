@@ -1,7 +1,3 @@
-# SwiftUI_BARGRAPH
-
-```swift
-
 //
 //  BarGraph.swift
 //  AnalyticsApp
@@ -170,6 +166,3 @@ struct BarGraph_Previews: PreviewProvider {
         BaseView()
     }
 }
-
-
-```
